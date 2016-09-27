@@ -30,4 +30,4 @@ Filter prefabs by label. Add and remove labels
 Quickly replace scene objects with prefabs
 
 ## Links
-[Asset Store]()
+[Asset Store](https://www.assetstore.unity3d.com/#!/content/72479)
