@@ -1,5 +1,7 @@
 # Prefab Browser for Unity
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PPZJQDNZNH54Y)
+
 A one file Prefab Browser for [Unity 3D](http://unity3d.com/). Packed with painting and placing tools fro prefabs as well as label sorting and filtering.
 Great for designers and faster level design workflow.
 
