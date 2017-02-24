@@ -17,10 +17,12 @@ One .cs file with no aditional icons and dependancies (except the prefab replace
 
 ### Drag and Drop prefab placing
 ![drag and drop placing](https://github.com/simeonradivoev/Unity-Open-Source-Tools/raw/master/Assets/Screenshots/PrefabBrowser_DragAndDrop.gif)
+
 Smart prefab placing with surface snapping and rotation shortcuts.
 
 ### Prefab Painting
 ![prefab painting](https://github.com/simeonradivoev/Unity-Open-Source-Tools/raw/master/Assets/Screenshots/PrefabBrowser_PaintMode.gif)
+
 Prefab painting with smart surface snapping and rotation shortcuts.
 
 ### Label filtering
